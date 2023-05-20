@@ -1,6 +1,6 @@
 # Домашнее задание к лекции «Классы, наследование»
 
-<!-- [![Build status]()]() -->
+[![Build status](https://ci.appveyor.com/api/projects/status/29nnbj57ne9j9gin?svg=true)](https://ci.appveyor.com/project/RomanMenshikov92/constructors-hw-5)
 
 **Важно**: каждая задача выполняется в виде отдельного проекта с собственным GitHub репозиторием.
 
